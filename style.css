@@ -750,7 +750,7 @@ font-weight: 700;
 
     .sign-box h1{
         position: relative;
-        left:30px;
+        left:0px;
     }
     .button, .forget_password {
         padding-left: 0;
