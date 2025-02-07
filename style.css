@@ -746,6 +746,7 @@ font-weight: 700;
 
     .sign-box {
         padding-left: 0;
+        height: 7rem;
     }
 
     .sign-box h1{
