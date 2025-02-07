@@ -748,6 +748,10 @@ font-weight: 700;
         padding-left: 0;
     }
 
+    .sign-box h1{
+        position: relative;
+        left:30px;
+    }
     .button, .forget_password {
         padding-left: 0;
     }
